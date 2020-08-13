@@ -4,6 +4,6 @@ Hi, 这里是Linhk1606，一个初三学生, 努力学习提高组算法的OIer~
 
 下面是我的 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Linhk1606&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Linhk1606&show_icons=true&theme=tokyonight)
 
 很菜, 对不对
