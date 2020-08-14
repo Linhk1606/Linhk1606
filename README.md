@@ -5,5 +5,5 @@ Hi, 这里是Linhk1606，一个初三学生, 努力学习提高组算法的OIer~
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Linhk1606&bg_color=30,1bcdfc,734ae6&title_color=fff&text_color=fff&icon_color=fff&show_icons=true" />
 <br>
-<img align="cener" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhk1606&bg_color=30,1bcdfc,734ae6&title_color=fff&text_color=fff" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhk1606&bg_color=30,1bcdfc,734ae6&title_color=fff&text_color=fff" />
 <p align="right">Powered by <a href="https://github.com/anuraghazra/github-readme-stats/">GitHub Stats</a></p>
